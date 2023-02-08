@@ -32,6 +32,17 @@ Here you will find official and unoffical images for most applications.
 
 > :warning: let's take a look at what images are available for running containers on Docker Hub
 
+### What kind of things can we do with containers?
+
+>> :clock: Spend a few mins looking around docker hub and get students to share what they've found
+
+Eg:
+* Redis - redis is a cache + Db
+* Mongo - we know MongoDB is a document based database
+* WordPress - many times bigger than a simple database - WordPress is the most well known CMS in the world
+* Ubuntu - most popular user friendly linux os
+
+Generally, there's a container for every programming language, database, project, tool etc etc.. Particularly if that is open sourced.
 
 ## How do we use containers?
 
